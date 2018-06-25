@@ -1,0 +1,2 @@
+- [SDET in Job Description](JD.md)
+- [Test Assignment](SDET-Challenge.md)
