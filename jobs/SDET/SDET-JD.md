@@ -1,11 +1,11 @@
 
-## Senior Software Development Engineer in Test
+# Senior Software Development Engineer in Test
 
 The Senior Software Development Engineer in Test  will lead the planning, design, implementation and execution of automated and manual test strategies for our products. This person will collaborate closely with the Engineering and Product teams to ensure we are releasing the highest quality product for our clients.
 
 This person needs to be able to work independently while having strong cross-team collaborative skills alongside proficiency in test planning, strong knowledge and experience on Agile test methodologies, processes and strong hands-on experience in developing automated test frameworks and coordinating the creation of both manual and automated test scripts.
 
-### The Day to Day
+## The Day to Day
 
 - Improve the overall efficiency of the QA team by mentoring and helping the team
 - Working alongside developers in evangelising testing best practices
@@ -19,7 +19,7 @@ This person needs to be able to work independently while having strong cross-tea
 - Enforce Engineering Excellence practices and drive quality early in the development cycle; enforcing code standards, unit testing, test driven development and other strategies to improve and ensure code quality
 - Proactively communicate with development team during the development cycle and participate in design and documentation of new features
 
-### Tecnhologies we use
+## Tecnhologies we use
 
 - C\C++, Objective C\Swift, Java, Kotlin, JRuby\Ruby on Rails, Javascript(ES5, ES2015+)
 - Selenium, SeleniumHub, Appium
@@ -28,7 +28,7 @@ This person needs to be able to work independently while having strong cross-tea
 - Git, Jenkins
 - AWS
 
-### Desired skills and experience
+## Desired skills and experience
 
 - At least 5 years of experience as a dedicated SDET and a proven record of shipping large, complex software projects
 - Strong experience with Java language, familiar with scripting langagues (Ruby, Python)
@@ -43,3 +43,5 @@ This person needs to be able to work independently while having strong cross-tea
 - Experience doing Security testing is a plus
 - Experience in implementing automated software delivery pipelines and continuous integration using tools such as Git and Jenkins is a plus
 - Experience with Linux Containers, Docker\LXC, Vagrant is a plus
+
+If everything above describes you or you just wanna give it a try - check the [challenge](SDET-Challenge.md) a successful candidate is supposed to pass through!
