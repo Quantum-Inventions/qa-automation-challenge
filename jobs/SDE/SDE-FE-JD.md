@@ -1,7 +1,9 @@
 # Senior Software Development Engineer - Frontend
+
 The Senior Software Development - Frontend will lead the design and development of the web user interfaces for our products. This person will collaborate closely with the Engineering Backend and Product teams to conceive, design, architect and build feature-rich, user-friendly, optimal web applications. This person needs to be able to work independently while having strong cross-team collaborative skills alongside proficiency and strong hands-on experience in frontend design, development and testing.
 
 ## The Day to Day
+
 - Build performant, user-friendly client-facing frontend portals for web applications
 - Collaborate with backend developers to define API interfaces
 - Optimize application performance on browsers for scale
@@ -13,6 +15,7 @@ The Senior Software Development - Frontend will lead the design and development 
 - Question, discuss and debate with team members to come up with the best 
 
 ## Technologies we use
+
 - Javascript(ES6), AngularJS (open to using alternative frameworks), JRuby/Ruby on Rails, Java
 - Jasmine, Karma, Mocha, Chai, Sinon
 - Windows, MacOS, Linux
@@ -21,6 +24,7 @@ The Senior Software Development - Frontend will lead the design and development 
 - AWS
 
 ## Requirements
+
 - 3+ experience in web development
 - Demonstrated expertise in Javascript and CSS
 - Experience with one or more of Angular, React, Ember, Vue, etc.
