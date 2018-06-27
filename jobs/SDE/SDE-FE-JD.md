@@ -8,18 +8,17 @@ The Senior Software Development - Frontend will lead the design and development 
 - Collaborate with backend developers to define API interfaces
 - Optimize application performance on browsers for scale
 - Contribute to product features and UX brain-storming & discussions
-- Design and write high quality of code with long-term maintenance and readability in view 
+- Design and write high quality of code with long-term maintenance and readability in view
 - Aid in team's growth with conscientious and healthy peer code review
 - Stay up-to-date with emerging technology, frameworks, tools
-- Contribute towards refining team work flows, processes and tools 
-- Question, discuss and debate with team members to come up with the best 
+- Contribute towards refining team work flows, processes and tools
+- Question, discuss and debate with team members to come up with the best
 
 ## Technologies we use
 
 - Javascript(ES6), AngularJS (open to using alternative frameworks), JRuby/Ruby on Rails, Java
 - Jasmine, Karma, Mocha, Chai, Sinon
-- Windows, MacOS, Linux
-- Git, Bitbucket
+- Git
 - Jenkins, Terraform, Docker
 - AWS
 

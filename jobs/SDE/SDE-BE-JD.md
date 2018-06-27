@@ -6,19 +6,17 @@ The Senior Software Development - Backend will lead the design and development o
 
 - Develop web services to facilitate web or mobile clients
 - Collaborate with frontend developers to define API interfaces
-- Optimize application performance for scale
+- Design and optimize application performance for scale
+- Aid in team's growth with conscientious and healthy peer code review
 - Contribute to product functionality, features and UX brain-storming & discussions
-- Ensure high quality of code 
-- Code review
+- Design and write high quality of code with long-term maintenance and readability in view
 - Stay up-to-date with emerging technology, frameworks, tools
-- Contribute towards refining team work flows, processes and tools 
+- Contribute towards refining team work flows, processes and tools
 
 ## Technologies we use
 
-- NodeJS, Serverless JRuby/Ruby on Rails, Java
-- Jasmine, Karma, Mocha, Chai, Sinon
-- Windows, MacOS, Linux
-- Git, Bitbucket
+- NodeJS, Serverless, JRuby/Ruby on Rails, Java
+- Git
 - Jenkins, Terraform, Docker
 - AWS
 
@@ -27,7 +25,7 @@ The Senior Software Development - Backend will lead the design and development o
 - 3+ years experience in web development
 - Expertise with one or more web scripting languages like NodeJS, Python, Ruby, Go, etc.
 - Excellent OOP/OOD skills with understanding of design patterns
-- Understanding of databases (preferably both SQL and NoSQL) and performance optimization
+- Understanding of databases (SQL and NoSQL) and performance tuning
 - Good understanding of the web development process and software life cycle
 - Hands on experience with Git
 - Developed CI/CD friendly applications
