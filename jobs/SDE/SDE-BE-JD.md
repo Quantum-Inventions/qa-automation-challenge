@@ -22,8 +22,8 @@ The Senior Software Development - Backend will lead the design and development o
 
 ## Requirements
 
-- 3+ years experience in web development
-- Expertise with one or more web scripting languages like NodeJS, Python, Ruby, Go, etc.
+- 4+ years experience in web development
+- Expertise with one or more of NodeJS, Python, Ruby, Go, etc.
 - Excellent OOP/OOD skills with understanding of design patterns
 - Understanding of databases (SQL and NoSQL) and performance tuning
 - Good understanding of the web development process and software life cycle

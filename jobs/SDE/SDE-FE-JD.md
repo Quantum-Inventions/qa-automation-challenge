@@ -24,7 +24,7 @@ The Senior Software Development - Frontend will lead the design and development 
 
 ## Requirements
 
-- 3+ experience in web development
+- 4+ experience in web development
 - Demonstrated expertise in Javascript and CSS
 - Experience with one or more of Angular, React, Ember, Vue, etc.
 - Proven record in writing well-tested code
