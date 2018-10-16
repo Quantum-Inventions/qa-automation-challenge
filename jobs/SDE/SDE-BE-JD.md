@@ -19,15 +19,18 @@ The Senior Software Development - Backend will lead the design and development o
 - Git
 - Jenkins, Terraform, Docker
 - AWS
+- Microsoft Teams
 
 ## Requirements
 
-- 4+ years experience in web development
+- 4+ years experience in back-end development
 - Expertise with one or more of NodeJS, Python, Ruby, Go, etc.
 - Excellent OOP/OOD skills with understanding of design patterns
-- Understanding of databases (SQL and NoSQL) and performance tuning
+- Hands-on experience with databases (SQL and NoSQL) and performance tuning
+- Implementing automated testing platforms and unit tests
+- Understanding of “session management” in a distributed server environment
 - Good understanding of the web development process and software life cycle
-- Hands on experience with Git
+- Proficient understanding of code versioning tools, such as Git
 - Developed CI/CD friendly applications
-- Agile development and SCRUM methodology
+- Familiarity with Agile/Scrum methodologies
 - Experience in microservices architecture and SAM/Serverless frameworks is a plus
