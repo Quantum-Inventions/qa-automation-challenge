@@ -6,12 +6,9 @@ The actual requirements are listed further down, but here are the general tech r
 - Make sure your app is runnable on Windows, Mac OS X and Linux
 - Do not include any paid software dependencies
 - Include instructions for setting up and running your application
-- Containerized app is a plus
+- You are free to add any open source CSS framework like bootstrap, material ui as per the need
+- You can use API mock service https://reqres.in/, for API needs. Visit the site for more details.
 
-### Mock APIs 
-
-Simulate API like behaviour using following approach -
-* You can use API mock service: https://reqres.in/. Visit the site for more details.
 
 ### Description 
 
@@ -55,17 +52,18 @@ provide option to go back to main page
 
 ### What we care about
 - Architecture:
-    - How clean and reasonable is the separation between modules?
+    - How clean and reasonable is the separation between codes?
+    - How good FE framework specific implementations?
+    - How optimized logic used to solve a problem?
 - Clarity: 
-    - Does the README clearly and concisely explain the problem and solution? 
-    - Are technical tradeoffs explained?
-    - Explanation of design principles and best practices followed
+    - How clean the code is?
 - Code quality: 
     - Is the code simple, easy to understand, and maintainable?
     - Are there any code smells or other red flags? 
     - Is the coding style consistent with the language's guidelines? 
     - Is it consistent throughout the codebase?
     - Are negative scenarios handled?
+    - How strong validations are in place for the forms?
 - Testing:
     - Quality of unit tests
     - Adequacy and coverage of tests
