@@ -8,7 +8,7 @@ The actual requirements are listed further down, but here are the general tech r
 - Include instructions for setting up and running your application
 - You are free to add any open source CSS framework like Bootstrap, Materia UI as per the need
 - You can use API mock service https://reqres.in/ for API needs. 
-- No need to configure any database for any flows.
+- No database setup is required for this task
 
 
 ### Description 
