@@ -7,7 +7,7 @@ The actual requirements are listed further down, but here are the general tech r
 - Do not include any paid software dependencies
 - Include instructions for setting up and running your application
 - You are free to add any open source CSS framework like Bootstrap, Materia UI as per the need
-- You can use API mock service https://reqres.in/, for API needs. 
+- You can use API mock service https://reqres.in/ for API needs. 
 
 
 ### Description 
@@ -40,7 +40,7 @@ Develop a web application which can support following functionalities:
 
 
 **Complete the assignment as you would do for the real-life production environment.**
-> Write your code in Javascript(ES6 Preferred), AngularJS or React
+Write your code in Javascript(ES6 Preferred), AngularJS or React
 
 
 ### What we're looking for
@@ -52,7 +52,7 @@ Develop a web application which can support following functionalities:
 ### What we care about
 - Architecture:
     - How clean and reasonable is the separation between codes?
-    - How optimized logic used to solve a problem with respect to memory consumption and execution time?
+    - How optimized is the logic used to solve the problem with respect to memory consumption and execution time?
 - Clarity: 
     - Does the README clearly and concisely explain the problem and solution? 
     - Are technical tradeoffs explained?
@@ -63,7 +63,7 @@ Develop a web application which can support following functionalities:
     - Is the coding style consistent with the FE framework's guidelines? 
     - Is it consistent throughout the codebase?
     - Are negative scenarios handled?
-    - How strong are the validations are in place for the forms?
+    - How strong are the validations in place for the forms?
 - Testing:
     - Quality of unit tests
     - Adequacy and coverage of tests
