@@ -6,14 +6,14 @@ The actual requirements are listed further down, but here are the general tech r
 - Make sure your app is runnable on Windows, Mac OS X and Linux
 - Do not include any paid software dependencies
 - Include instructions for setting up and running your application
-- You are free to add any open source CSS framework like bootstrap, material ui as per the need
-- You can use API mock service https://reqres.in/, for API needs. Visit the site for more details.
+- You are free to add any open source CSS framework like Bootstrap, Materia UI as per the need
+- You can use API mock service https://reqres.in/, for API needs. 
 
 
 ### Description 
 
 Develop a web application which can support following functionalities:
-- Build a **Login** page which takes username and password (The API mock service provided above, can work without creating a user)
+- Build a **Login** page which takes username and password
 - After successful login, go to page where users are listed down
 - Use *delayed response* of 5seconds to show a loader icon on a popup
 - The users **List** page should have following 
@@ -24,7 +24,7 @@ Develop a web application which can support following functionalities:
 	- It should contain following details _atleast_ : user profile image/ avatar, first name, last name
 	- Each row should have option to **Edit** the item, or **Delete** the item from the list
 	- On click of **Edit**
-		- A collapsable section should open (e.g - Accordion)
+		- A collapsible section should open (e.g - Accordion)
 		- Section should contain editable form to edit first name and last name
 		- *Form specifications*
 			- Required fields: First Name, Last Name
@@ -36,8 +36,7 @@ Develop a web application which can support following functionalities:
 	- On click of **Delete**
 		- The item should be deleted from the list of users
 - On click of **Logout** button, the user should return to login page	
-- If users try to navigate to a route which does not exists, show a custom error message on a modal and 
-provide option to go back to main page
+- If users try to navigate to a route which does not exists, show a custom error message
 
 
 **Complete the assignment as you would do for the real-life production environment.**
@@ -53,17 +52,18 @@ provide option to go back to main page
 ### What we care about
 - Architecture:
     - How clean and reasonable is the separation between codes?
-    - How good FE framework specific implementations?
-    - How optimized logic used to solve a problem?
+    - How optimized logic used to solve a problem with respect to memory consumption and execution time?
 - Clarity: 
-    - How clean the code is?
+    - Does the README clearly and concisely explain the problem and solution? 
+    - Are technical tradeoffs explained?
+    - Explanation of design principles and FE framework specific best practices to be followed
 - Code quality: 
     - Is the code simple, easy to understand, and maintainable?
     - Are there any code smells or other red flags? 
-    - Is the coding style consistent with the language's guidelines? 
+    - Is the coding style consistent with the FE framework's guidelines? 
     - Is it consistent throughout the codebase?
     - Are negative scenarios handled?
-    - How strong validations are in place for the forms?
+    - How strong are the validations are in place for the forms?
 - Testing:
     - Quality of unit tests
     - Adequacy and coverage of tests
