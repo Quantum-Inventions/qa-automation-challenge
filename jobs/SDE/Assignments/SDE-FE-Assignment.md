@@ -13,7 +13,7 @@ The actual requirements are listed further down, but here are the general tech r
 ### Description 
 
 Develop a web application which can support following functionalities:
-- Build a **Sign Up** and **Login** page which takes email and password
+- Build a **Registration** and **Login** page which takes user email and password
 - After successful login, go to page where users are listed down
 - Use *delayed response* of 5seconds to show a loader icon on a popup
 - The users **List** page should have following 
