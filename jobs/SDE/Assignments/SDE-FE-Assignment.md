@@ -40,6 +40,7 @@ Develop a web application which can support following functionalities:
 
 
 **Complete the assignment as you would do for the real-life production environment.**
+
 Write your code in Javascript(ES6 Preferred), AngularJS or React
 
 
