@@ -8,6 +8,8 @@
 
 - [Software Development Engineer, Backend](jobs/SDE/SDE-BE-JD.md)
 
+- [Site Reliability Engineer, DevOps Engineer](jobs/SRE/SRE-DevOps-JD.md)
+
 <hr>
 
 http://www.quantuminventions.com
