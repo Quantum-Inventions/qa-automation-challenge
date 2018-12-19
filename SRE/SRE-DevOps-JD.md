@@ -3,7 +3,7 @@
 
 We’re looking for software engineers turned DevOps engineers to help an in-house DevOps Team to automate the software development processes and enhance the Operations flow within the company. Communication, attitude and your people skills will play a massive part of this role.
 
-Our team is expected to having a positive outlook with eagerness to share ideas and learn from others. You will need to be outcome focused without compromising on quality.
+Our team is expected to have a positive outlook with eagerness to share ideas and learn from others. You will need to be outcome focused without compromising on quality.
 
 You won't be project managing but 'championing' the right practices, supporting the Quality Circle - know where to take the hard line and where to flex, additional fundamentals you need a commitment to:
 
